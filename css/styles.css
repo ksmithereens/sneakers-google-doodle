@@ -23,3 +23,10 @@
 #heart2 {
   fill: green;
 }
+
+#stack {
+  scale: 0.5;
+  position: relative;
+  left: -175px;
+  bottom: 130px;
+}
