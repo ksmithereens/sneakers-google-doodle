@@ -60,35 +60,35 @@ tl3.pause();
 
 tl3
   .to("#g1", {
-    x: 120,
-    y: 150,
-    opacity: 1,
+    x: 270,
+    y: 300,
+    opacity: 0,
     delay: 4
   })
   .to("#o1", {
     x: 120,
-    y: 150,
-    opacity: 1
+    y: 300,
+    opacity: 0
   })
   .to("#o2", {
     x: 50,
-    y: 150,
-    opacity: 1
+    y: 300,
+    opacity: 0
   })
   .to("#g2", {
-    x: -20,
-    y: 150,
-    opacity: 1
+    x: -50,
+    y: 300,
+    opacity: 0
   })
   .to("#l", {
-    x: -100,
-    y: 150,
-    opacity: 1
+    x: -200,
+    y: 300,
+    opacity: 0
   })
   .to("#e", {
-    x: -140,
-    y: 150,
-    opacity: 1
+    x: -350,
+    y: 300,
+    opacity: 0
   })
   .to("#topLid", {
     rotate: 0,
