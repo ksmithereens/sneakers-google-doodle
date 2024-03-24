@@ -86,7 +86,7 @@ tl3
     opacity: 0
   })
   .to("#e", {
-    x: -2,
+    x: -350,
     y: 300,
     opacity: 0
   })
