@@ -2,7 +2,7 @@ console.log('OK');
 const topLid = document.querySelector("#topLid");
 
 topLid.addEventListener("click", () => {
-  topLid.style.transform = "rotate(-220deg) scale(0.5)";
+  topLid.style.transform = "rotate(-220deg)";
   tl2.resume();
   tl3.resume();
 });
